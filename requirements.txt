@@ -1,0 +1,11 @@
+kagglehub
+numpy
+pandas
+matplotlib
+pillow
+opencv-python-headless
+scikit-learn
+scikit-image
+tensorflow
+joblib
+jupyter

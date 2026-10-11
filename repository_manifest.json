@@ -1,0 +1,27 @@
+{
+  "repository_name": "brain-tumor-mri-classification",
+  "model_notebooks": 6,
+  "preprocessing_notebook": true,
+  "comparison_notebook": true,
+  "files": [
+    ".gitignore",
+    "CONTRIBUTORS.md",
+    "GITHUB_SETUP.md",
+    "README.md",
+    "data/README.md",
+    "deployment/README.md",
+    "docs/MODEL_OWNER_MANIFEST.csv",
+    "docs/README.md",
+    "notebooks/comparison/07_Final_6_Owner_Model_Comparison.ipynb",
+    "notebooks/models/01_IT25104064_Hettiarachchi_EfficientNetB0_ImageNet_2Variants.ipynb",
+    "notebooks/models/02_IT25100854_Thennakoon_MLP_HOG_GLCM_PCA_2Variants.ipynb",
+    "notebooks/models/03_IT25100233_Senanayake_SVM_Linear_2Variants.ipynb",
+    "notebooks/models/04_IT25101776_Weerakkody_CustomCNN_2Variants.ipynb",
+    "notebooks/models/05_IT25102346_Malintha_EfficientNetB0_ImageNet_2Variants.ipynb",
+    "notebooks/models/06_IT25100295_Somarathne_DenseNet121_ImageNet_2Variants.ipynb",
+    "notebooks/preprocessing/00_Group_Preprocessing_and_EDA.ipynb",
+    "repository_manifest.json",
+    "requirements.txt",
+    "results/README.md"
+  ]
+}

@@ -1,0 +1,7 @@
+Member,Student,IT Number,Assigned Model,Notebook
+1,Hettiarachchi H.A.A.S,IT25104064,EfficientNetB0,01_IT25104064_Hettiarachchi_EfficientNetB0_ImageNet_2Variants.ipynb
+2,Thennakoon T.M.A.N,IT25100854,MLP,02_IT25100854_Thennakoon_MLP_HOG_GLCM_PCA_2Variants.ipynb
+3,Senanayake S.M.K.D,IT25100233,SVM,03_IT25100233_Senanayake_SVM_Linear_2Variants.ipynb
+4,Weerakkody W.W.M.B,IT25101776,Custom CNN,04_IT25101776_Weerakkody_CustomCNN_2Variants.ipynb
+5,Malintha K.K.I,IT25102346,EfficientNetB0,05_IT25102346_Malintha_EfficientNetB0_ImageNet_2Variants.ipynb
+6,Somarathne R.N.N,IT25100295,DenseNet121,06_IT25100295_Somarathne_DenseNet121_ImageNet_2Variants.ipynb

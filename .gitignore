@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dataset / generated data
+data/*
+!data/README.md
+*.zip
+
+# Large trained model files
+*.keras
+*.h5
+*.hdf5
+*.joblib
+*.pkl
+*.pickle
+
+# TensorFlow checkpoints / logs
+checkpoints/
+logs/
+tensorboard/
+*.ckpt
+*.index
+*.data-*
+
+# Generated result folders
+outputs/
+artifacts/
+tmp/
